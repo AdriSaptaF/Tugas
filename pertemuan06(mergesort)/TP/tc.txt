@@ -1,0 +1,77 @@
+2
+AvengedSevenfold 8.01 A_Little_Peace_Of_Heaven
+Vierra 4.24 Seandainya
+3
+T.R.I.A.D 3.43 Munajat_Cinta
+KangenBand 3.28 Pujaan_Hati
+ST12 4.38 Cinta_Tak_Harus_Memiliki
+2
+NewJeans 2.34 Super_Shy
+LeSserafim 2.49 Fearless
+2
+AldiHaqq 4.03 Peak_Of_Love
+Queen 3.42 Love_of_My_Life
+1
+LinkinPark 3.39 In_The_End
+970
+Abdul
+Band
+
+2
+AvengedSevenfold 10.01 Kayanya_Gak_Ada
+Vierra 4.24 Seandainya
+3
+T.R.I.A.D 3.43 Munajat_Cinta
+KangenBand 3.28 Pujaan_Hati
+ST12 4.38 Cinta_Tak_Harus_Memiliki
+2
+NewJeans 2.34 Super_Shy
+LeSserafim 2.49 Fearless
+2
+AldiHaqq 4.03 Peak_Of_Love
+Queen 3.42 Love_of_My_Life
+1
+LinkinPark 3.39 In_The_End
+970
+Abdul
+Durasi
+
+2
+NCTDream 3.27 Smoothie
+Vierra 4.24 Seandainya
+3
+T.R.I.A.D 3.43 Munajat_Cinta
+KangenBand 3.28 Pujaan_Hati
+ST12 4.38 Cinta_Tak_Harus_Memiliki
+2
+NewJeans 2.34 Super_Shy
+LeSserafim 2.49 Fearless
+2
+AldiHaqq 4.03 Peak_Of_Love
+Queen 3.42 Love_of_My_Life
+1
+LinkinPark 3.39 In_The_End
+970
+Abdul
+Judul
+
+
+2
+NCTDream 3.27 Smoothie
+Vierra 54.24 Seandainya
+3
+T.R.I.A.D 3.43 Munajat_Cinta
+KangenBand 3.28 Pujaan_Hati
+ST12 4.38 Cinta_Tak_Harus_Memiliki
+2
+NewJeans 15.00 Super_Shy
+LeSserafim 2.49 Fearless
+2
+AldiHaqq 4.03 Peak_Of_Love
+Queen 3.42 Love_of_My_Life
+1
+LinkinPark 3.39 In_The_End
+970
+Abdul
+Judul
+case salah : rakha durasi
