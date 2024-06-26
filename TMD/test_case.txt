@@ -1,0 +1,30 @@
+INPUT desa D006 Cibeunying B004 P002 Sudah_Menerima;
+UPDATE desa D006 Cibeunying B004 P002 Sudah_Menerima;
+DELETE desa D006;
+
+INPUT bansos B009 Kopi;
+UPDATE bansos B009 Mentega;
+DELETE bansos B009;
+
+INPUT pj P006 HuTao;
+UPDATE pj P006 Furina;
+DELETE pj P006;
+
+INPUT UPDATE desa D007 Cikapundung B004 P002 Sudah_Menerima;
+INPUT UPDATE desa D007 Antapani B005 P001 Belum_Menerima;
+INPUT DELETE desa D007 Antapani B005 P001 Belum_Menerima;
+
+SHOW desa;
+SHOW bansos;
+SHOW pj;
+SHOW desa bansos;
+SHOW desa pj;
+SHOW desa bansos pj;
+
+
+ERROR :
+INSERT bansos B010 Celana;
+UPDATE status S001 Ragu_ragu;
+
+INPUT desa Cibeunying B004 P002 Sudah_Menerima;
+

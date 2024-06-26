@@ -1,0 +1,26 @@
+QUERY yang Diizinkan :
+
+Case 01 : Single QUERY
+    - INPUT [table_name] value01 value02 .... (Check The Table);
+    - UPDATE [table_name] PrimaryKey Value01 Value02 ... (Check The Table);
+    - DELETE [table_name] PrimaryKey;
+    - SHOW [table_name];
+        Special Case :
+            - SHOW [main_table] [table];
+            - SHOW [main_table] [table] [table];
+
+Case 02 : Double QUERY
+    - INPUT UPDATE [table_name] Value ... ;
+    - INPUT DELETE [table_name] value ....;
+
+QUERY ERROR :
+
+Case 01 : Unknown Command
+    INSERT [table_name] Value...;
+
+Case 02 : Unknown Table
+    UPDATE [Undefineded_table] value ....;
+
+Case 03 : Missing Value
+    - Unknown PrimaryKey
+    - Uncomplete QUERY
